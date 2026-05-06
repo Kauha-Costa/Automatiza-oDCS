@@ -1,0 +1,5 @@
+python-docx
+ttkbootstrap
+pywin32
+pywinauto
+pyinstaller
